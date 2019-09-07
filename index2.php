@@ -13,6 +13,7 @@ background-image: url("video/cube.gif");
 //background-size: 100% 100%;
 }
 </style>
+Your IP address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
   
 <center>
   
