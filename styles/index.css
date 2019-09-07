@@ -3,11 +3,9 @@ body {
 }
 
 h1 {
-  color: white;
-//  margin-left: 20px;
-  font-family: "Comic Sans", Times, serif;
-font-size: 50px;
-
+color: white;
+font-size: 100px;
+text-decoration: line-through;
 }
 
 
@@ -15,6 +13,5 @@ font-size: 50px;
 
 p {
 	color: Orange;
-	font-weight: bold;
-	font-size: 100px;
+	font-size: 50px;
 }
