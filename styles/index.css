@@ -1,0 +1,19 @@
+body {
+  /* background-color: lightblue; */
+}
+
+h1 {
+  color: white;
+//  margin-left: 20px;
+  font-family: "Comic Sans", Times, serif;
+
+}
+
+
+/* used in index.html // my high school goals */
+
+p {
+	color: Orange;
+	font-weight: bold;
+	font-weight: 100;
+}
