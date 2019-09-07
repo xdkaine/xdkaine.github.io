@@ -4,14 +4,11 @@ body {
 
 h1 {
   color: white;
-  margin-left: 20px;
+	font-weight: 100px;
+	text-shadow: 3px 4px 7px DodgerBlue;
 }
-
-
-/* used in index.html // my high school goals */
 
 p {
 	color: white;
-	font-weight: bold;
-	font-weight: 100;
+	font-weight: 100px;
 }
