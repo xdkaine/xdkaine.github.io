@@ -1,14 +1,14 @@
-body {
-  /* background-color: lightblue; */
-}
-
 h1 {
-  color: white;
-	font-weight: 100px;
-	text-shadow: 3px 4px 7px DodgerBlue;
+	
+color: white;
+font-weight: 100px;
+text-shadow: 3px 4px 7px Teal;
+	
 }
 
 p {
+	
 	color: white;
-	font-weight: 100px;
+	font-weight: 50px;
+	
 }
