@@ -1,12 +1,14 @@
+body {
+  background-image: url("video/cube.gif");
+  //background-size: 100% 100%;
+}
+
 h1 {
 color: white;
 font-weight: 50px;
 text-shadow: 3px 4px 7px Fuchsia;
 	
 }
-
-
-/* used in index.html // my high school goals */
 
 p {
 	color: white;
