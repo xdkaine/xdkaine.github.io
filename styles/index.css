@@ -1,17 +1,10 @@
-body {
-  /* background-color: lightblue; */
-}
-
 h1 {
-color: white;
-font-size: 100px;
-text-decoration: line-through;
+	color: White;
+	font-size: 100px;
+	text-decoration: line-through;
 }
-
-
-/* used in index.html // my high school goals */
 
 p {
 	color: Orange;
-	font-size: 50px;
+	font-size: 25px;
 }
