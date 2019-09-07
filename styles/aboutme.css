@@ -5,12 +5,12 @@ body {
 
 h1 {
 color: white;
-font-weight: 50px;
+font-weight: 100px;
 text-shadow: 3px 4px 7px Fuchsia;
 	
 }
 
 p {
 	color: white;
-	font-weight: 20px;
+	font-weight: 50px;
 }
