@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: Red;
+  color: white;
   margin-left: 20px;
 }
 
@@ -11,7 +11,7 @@ h1 {
 /* used in index.html // my high school goals */
 
 p {
-	color: Orange;
+	color: white;
 	font-weight: bold;
 	font-weight: 100;
 }
