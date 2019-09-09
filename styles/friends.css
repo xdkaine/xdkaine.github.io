@@ -9,6 +9,10 @@ text-shadow: 3px 4px 7px Orchid;
 	
 }
 
+h.1 {
+	text-indent: 50px;
+}
+
 p {
 	color: white;
 	font-weight: 50px;
