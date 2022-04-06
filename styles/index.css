@@ -13,6 +13,8 @@ h2 {
 	
 	/* IDEALLY I am looking to make actual header stuff and footer stuff */
 	
-	
-	
+	color: white;
+	font-weight: 100px;
+	text-shadow: 3px 4px 7px CornflowerBlue;
+	text-indent: 300px;
 }
